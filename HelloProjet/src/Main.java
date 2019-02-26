@@ -9,6 +9,7 @@ public class Main {
         System.out.println("张三的修改");
 
         System.out.println("修改一次吧");
+        System.out.println("idea修改");
 
     }
 }
